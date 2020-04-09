@@ -1,0 +1,11 @@
+{
+  "package": {
+    "dependencies": {
+      "react-app-rewired": "^2.0"
+    },
+    "scripts": {
+      "build": "react-app-rewired build",
+      "test": "react-app-rewired test"
+    }
+  }
+}
