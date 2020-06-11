@@ -2,6 +2,10 @@
 
 A template for bootstrapping complex Chrome/Firefox/(any Chromium-based browser) extensions, to be used with [Create React App](https://github.com/facebook/create-react-app) v3.3.0 and higher.
 
+[Article](https://medium.com/swlh/bootstrapping-complex-chrome-firefox-edge-extensions-with-create-react-app-667be8df35d7)
+
+[TypeScript version of this template](https://github.com/hindmost/cra-template-complex-browserext-typescript)
+
 ## Usage
 
 ```sh
